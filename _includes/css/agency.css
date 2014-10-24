@@ -722,6 +722,19 @@ section#contact .contactInfo {
     text-align: center;
 }
 
+section#contact .contactInfo h3.firstRow {
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+section#contact .contactInfo h3.secondRow {
+    margin-bottom: 20px;
+}
+
+section#contact .contactInfo p {
+    margin-bottom: 40px;
+}
+
 footer {
     padding: 25px 0;
     text-align: center;
@@ -869,7 +882,7 @@ body {
 
 .google-maps {
     position: relative;
-    padding-bottom: 75%; // This is the aspect ratio
+    padding-bottom: 60%; // This is the aspect ratio
     height: 0;
     overflow: hidden;
 }
