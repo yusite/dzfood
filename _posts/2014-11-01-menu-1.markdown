@@ -1,0 +1,15 @@
+---
+title: 标准套餐
+subtitle: 菜谱每日更新，营养方便
+layout: default
+modal-id: 1
+date: 2014-11-01
+img: A1.png
+thumbnail: A1-thumbnail.png
+alt: 标准套餐
+project-date: 2014 - 2015
+client: Start Bootstrap
+category: Web Development
+description: 没有时间去食堂？食堂饭菜太难吃？想换换口味却不愿走路？大众美食给您提供方便的解决方案，让您享受不出校门的美味。
+
+---

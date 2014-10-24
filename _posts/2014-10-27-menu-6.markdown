@@ -1,12 +1,12 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: 炒年糕
+subtitle: Graphic Design
 layout: default
-modal-id: 5
-date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
-alt: image-alt
+modal-id: 6
+date: 2014-10-27
+img: roundicons.png
+thumbnail: B3-thumbnail.png
+alt: 炒年糕
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development

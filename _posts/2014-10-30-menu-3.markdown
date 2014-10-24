@@ -1,12 +1,12 @@
 ---
-title: Escape
+title: 什锦炒饭
 subtitle: Website Design
 layout: default
-modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
-alt: image-alt
+modal-id: 3
+date: 2014-10-30
+img: golden.png
+thumbnail: A3-thumbnail.png
+alt: 什锦炒饭
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development

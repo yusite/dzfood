@@ -1,12 +1,12 @@
 ---
-title: Golden
-subtitle: Website Design
+title: 锅贴
+subtitle: Graphic Design
 layout: default
-modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
-alt: image-alt
+modal-id: 7
+date: 2014-10-26
+img: roundicons.png
+thumbnail: C1-thumbnail.png
+alt: 锅贴
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
