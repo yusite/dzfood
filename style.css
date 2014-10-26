@@ -495,8 +495,8 @@ section h3.section-subheading {
     z-index: 100;
     position: absolute;
     left: 0;
-    width: 100px;
-    height: 100px;
+    width: 80px;
+    height: 80px;
     margin-left: 0;
     border: 7px solid #dddddd;
     border-radius: 100%;
@@ -561,16 +561,16 @@ section h3.section-subheading {
 
     .timeline>li .timeline-panel {
         float: left;
-        width: 41%;
+        width: 38%;
         padding: 0 20px 20px 30px;
         text-align: right;
     }
 
     .timeline>li .timeline-image {
         left: 50%;
-        width: 170px;
-        height: 170px;
-        margin-left: -85px;
+        width: 150px;
+        height: 150px;
+        margin-left: -75px;
     }
 
     .timeline>li .timeline-image h4 {
@@ -593,12 +593,13 @@ section h3.section-subheading {
 
     .timeline>li .timeline-panel {
         padding: 0 20px 20px;
+        width: 40%;
     }
 
     .timeline>li .timeline-image {
-        width: 170px;
-        height: 170px;
-        margin-left: -85px;
+        width: 150px;
+        height: 150px;
+        margin-left: -75px;
     }
 
     .timeline>li .timeline-image h4 {
@@ -619,6 +620,7 @@ section h3.section-subheading {
 
     .timeline>li .timeline-panel {
         padding: 0 20px 20px 100px;
+        width: 41%;
     }
 
     .timeline>li .timeline-image {
