@@ -495,8 +495,8 @@ section h3.section-subheading {
     z-index: 100;
     position: absolute;
     left: 0;
-    width: 80px;
-    height: 80px;
+    width: 100px;
+    height: 100px;
     margin-left: 0;
     border: 7px solid #dddddd;
     border-radius: 100%;
@@ -568,9 +568,9 @@ section h3.section-subheading {
 
     .timeline>li .timeline-image {
         left: 50%;
-        width: 100px;
-        height: 100px;
-        margin-left: -50px;
+        width: 170px;
+        height: 170px;
+        margin-left: -85px;
     }
 
     .timeline>li .timeline-image h4 {
