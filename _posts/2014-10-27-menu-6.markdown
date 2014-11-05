@@ -1,0 +1,16 @@
+---
+title: 馄饨
+subtitle: 商品描述
+layout: default
+modal-id: 6
+date: 2014-10-27
+img: empty.jpg
+thumbnail: B3-thumbnail.png
+alt: 馄饨
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+order-url: http://dzfood.eu/order
+description: 待续<br>价格：€3/份
+
+---

@@ -1,0 +1,16 @@
+---
+title: 什锦炒饭
+subtitle: 颗颗分明 粒粒香甜
+layout: default
+modal-id: 3
+date: 2014-10-30
+img: empty.jpg
+thumbnail: A3-thumbnail.png
+alt: 什锦炒饭
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+order-url: http://dzfood.eu/order
+description: 待续<br>价格：€3/份
+
+---

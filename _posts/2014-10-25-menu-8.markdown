@@ -1,0 +1,16 @@
+---
+title: 贝壳蛋糕
+subtitle: 香甜可口 好吃不贵
+layout: default
+modal-id: 8
+date: 2014-10-25
+img: C2.jpg
+thumbnail: C2-thumbnail.jpg
+alt: 菜单
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+order-url: http://dzfood.eu/menu
+description: 待续
+
+---

@@ -1,0 +1,16 @@
+---
+title: Cupcake
+subtitle: 手工制作 简单美味
+layout: default
+modal-id: 9
+date: 2014-10-24
+img: C3.jpg
+thumbnail: C3-thumbnail.png
+alt: Cupcake
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+order-url: http://dzfood.eu/
+description: 待续
+
+---

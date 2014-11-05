@@ -1,0 +1,16 @@
+---
+title: 点菜
+subtitle: 多种菜品 任你选择
+layout: default
+modal-id: 7
+date: 2014-10-26
+img: empty.jpg
+thumbnail: C1-thumbnail.jpg
+alt: 菜单
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+order-url: http://dzfood.eu/menu
+description: 敬请期待
+
+---

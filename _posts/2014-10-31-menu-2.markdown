@@ -1,0 +1,16 @@
+---
+title: 热汤面
+subtitle: 温润轻柔 暖胃暖心
+layout: default
+modal-id: 2
+date: 2014-10-31
+img: A2.png
+thumbnail: A2-thumbnail.png
+alt: 热汤面
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+order-url: http://dzfood.eu/order
+description: 实物图片<br>价格：€3/份
+
+---
